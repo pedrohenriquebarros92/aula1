@@ -10,5 +10,6 @@ ls - listar arquivos
 
 Em caso de problemas no push 
 - git push -f origin main (o f de "force")
-TODA VEZ QUE FOR COLOCAR STRING, COLOCAR CRASE E PARÊNTESES, NO COMEÇO E NO FINAL
+- var com string (nome, tem que ter ; no 1º
+TODA VEZ QUE FOR COLOCAR STRING NO CONSOLE.LOG, COLOCAR CRASE E PARÊNTESES, NO COMEÇO E NO FINAL
 PARA TRANFORMAR EM ANOTAÇÃO OU FECHAR TRABALHO ANTERIOR PARA NÃO PROCESSADO USE /* E *\
